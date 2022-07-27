@@ -1,0 +1,14 @@
+.component-titulo {
+    background-color: aqua;
+    color:blue;
+    text-align: center;
+    font-weight: 500;
+    flex: 0 0 auto;
+    width: 100%;
+  }
+  
+  .component-titulo > div {
+    font-size: 4rem;
+    padding: 0.2rem 0.7rem 0.1rem 0.5rem;
+  }
+  
